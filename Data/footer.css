@@ -1,0 +1,10 @@
+.footer {
+    position: fixed;
+    right: 20px;
+    bottom: 0;
+    width: 100%;
+    background-color: transparent;
+    color: blueviolet;;
+    text-align: right;
+}
+.menu-lanel{display: block;}
