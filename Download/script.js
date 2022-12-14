@@ -1,5 +1,5 @@
 const downloadBtn = document.querySelector(".download-btn");
-const fileLink = "https://github.com/MoonDecial/MoonDecial/releases/download/setup.exe/MoonDecial-Setup.exe";
+const fileLink = "https://github.com/MoonDecial/MoonDecial/releases/download/beta/MoonDecial-Setup.exe";
 
 const initTimer = () => {
     if(downloadBtn.classList.contains("disable-timer")) {
